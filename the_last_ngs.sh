@@ -1,3 +1,9 @@
+#alt code
+new_dir: mkdir ngs_pip
+base_dir:ngs_pip
+
+
+
 #####################################################
 #!/bin/bash
 
